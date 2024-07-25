@@ -26,8 +26,14 @@ Ask me anything **[here](https://github.com/prathamrao021)**
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamrao021&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
-<br />
-<br />
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=prathamrao021&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 **Happy Coding!** 😊
 
