@@ -18,10 +18,10 @@
 <br />
 <br />
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Full Stack Developer currently pursuing my Master's at University of Florida. I am currenytly working on React, FastAPI, Django, etc.
 <br />
 
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **[Gainesville,Florida](https://www.google.com/maps/place/Gainesville+-+UF/@29.6425946,-82.3530603,16z/data=!4m15!1m8!3m7!1s0x88e8a37409ad0e3d:0x8e4aa462a7926a2e!2sGainesville+-+UF!8m2!3d29.64259!4d-82.35048!10e1!16s%2Fg%2F11c6tyxqx_!3m5!1s0x88e8a37409ad0e3d:0x8e4aa462a7926a2e!8m2!3d29.64259!4d-82.35048!16s%2Fg%2F11c6tyxqx_?entry=ttu)**
 
 <br />
 I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
