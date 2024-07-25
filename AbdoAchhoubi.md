@@ -14,7 +14,7 @@ I'm a Full Stack Developer currently pursuing my Master's at University of Flori
 I'm currently based in **[Gainesville,Florida](https://www.google.com/maps/place/Gainesville+-+UF/@29.6425946,-82.3530603,16z/data=!4m15!1m8!3m7!1s0x88e8a37409ad0e3d:0x8e4aa462a7926a2e!2sGainesville+-+UF!8m2!3d29.64259!4d-82.35048!10e1!16s%2Fg%2F11c6tyxqx_!3m5!1s0x88e8a37409ad0e3d:0x8e4aa462a7926a2e!8m2!3d29.64259!4d-82.35048!16s%2Fg%2F11c6tyxqx_?entry=ttu)**
 
 <br />
-<b>Feel Free to Reach out to me<a href="mailto:prathamrao18092001@gmail.com">prathamrao18092001@gmail.com</a></b>
+<b>Feel Free to Reach out to me <a href="mailto:prathamrao18092001@gmail.com">prathamrao18092001@gmail.com</a></b>
 <br />
 <br />
 
@@ -34,6 +34,9 @@ Ask me anything **[here](https://github.com/prathamrao021)**
     </a>
 </div>
 <!--- trophy (start) -->
+<br/>
+<br/>
+<br/>
 
 **Happy Coding!** 😊
 
